@@ -1,7 +1,3 @@
-Sure! Here’s a sample GitHub README for your Neural Style Transfer project:
-
----
-
 # Neural Style Transfer with PyTorch
 
 Welcome to the Neural Style Transfer project! This repository showcases a PyTorch-based implementation of Neural Style Transfer (NST), a technique that blends the content of one image with the artistic style of another. 
@@ -54,8 +50,4 @@ cd your-repo
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace placeholders with actual paths and adjust as necessary!
+This project is licensed under the MIT License. See the LICENSE file for details.
